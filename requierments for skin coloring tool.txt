@@ -1,0 +1,14 @@
+*import body part images - 0:30
+*transform(locally linear) - 2:30
+*extract body parts from skin - 2:00 
+*draw results - 2:00
+*export to transparent png - dont compress red green - 0:30
+*allow input points that don't effect the transformation - 0:00
+*user interface - 4:00
+	*ctrl z
+	*change current body part - 
+	*change skins or show both debug and real skin
+	*skin pixel selection movment with wasd
+
+	
+input: many body parts, in png form. and several skins
